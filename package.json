@@ -14,8 +14,7 @@
     "element-plus": "^2.2.15",
     "lodash": "^4.17.21",
     "vxe-table": "^4.3.0-beta.5",
-    "date-fns": "^2.28.0",
-    "zkapsui": "1.0.12"
+    "date-fns": "^2.28.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.0.0",
