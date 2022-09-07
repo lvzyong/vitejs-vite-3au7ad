@@ -15,12 +15,12 @@ const printColumns = [
 
 <template>
   1234 123
-  <!-- <VolTable
+  <VolTable
     ref="printTableRef"
     :height="1000"
     :paginationHide="true"
     :columns="printColumns"
-  /> -->
+  />
 
   <h1>{{ msg }}</h1>
   <el-input v-model="msg" />
