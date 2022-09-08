@@ -39,7 +39,7 @@
     "wangeditor": "^4.7.10",
     "xe-clipboard": "^1.10.0",
     "xe-utils": "^3.5.6",
-    "zkapsui": "1.0.15"
+    "zkapsui": "1.0.13"
   },
   "devDependencies": {
     "@sxzz/eslint-config-prettier": "^2.4.0",
